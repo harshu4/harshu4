@@ -12,9 +12,9 @@ Passionate about safeguarding the digital realm through code and innovation. Cur
     Ethical Hacking | Bug Bounty Hunting
     
 
-🌐 Recent Projects:
-	    -   An Interoperable bridge to connect blockchains [Metabridge](https://github.com/MetaBridgeT/)
-	    -  A ZeroKnowledge proof based game built on Aleo [ZkLeague](https://github.com/harshu4/zkleague-contract)
+🌐 Recent Projects:<br>
+	    -   An Interoperable bridge to connect blockchains [Metabridge](https://github.com/MetaBridgeT/)<br>
+	    -  A ZeroKnowledge proof based game built on Aleo [ZkLeague](https://github.com/harshu4/zkleague-contract)<br>
 	    - A no-code solution to creating flows to interact with Blockchain [FlowX](https://github.com/harshu4/FlowX).
 
 💬 Let's Connect:
