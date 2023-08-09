@@ -1,16 +1,26 @@
-### Hi there 👋
+🛡️ Harsh Gandhi | Cybersecurity Enthusiast
 
-<!--
-**harshu4/harshu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about safeguarding the digital realm through code and innovation. Currently pursuing a Master's in Cybersecurity at University of Adelaide. Proficient in penetration testing, network security, and incident response. Dedicated to open source, learning, and collaborating with fellow security aficionados.
 
-Here are some ideas to get you started:
+🔐 Technical Skillset:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Penetration Testing | Network Defense
+    Forensics | Incident Handling
+    Encryption Algorithms
+    Python | Bash | C/C++ | React | Javascript | Typescript | Java | C# | Go
+    Ethical Hacking | Bug Bounty Hunting
+    
+
+🌐 Recent Projects:
+
+    🚀 An interoperable bridge to connect blockchains [Metabridge](https://github.com/MetaBridgeT/)
+    🌐 A ZeroKnowledge proof based game built on Aleo [ZkLeague](https://github.com/harshu4/zkleague-contract)
+    💻 A no-code solution to creating flows to interact with Blockchain [FlowX](https://github.com/harshu4/FlowX).
+
+💬 Let's Connect:
+Eager to connect with like-minded individuals, security professionals, and enthusiasts. Let's collaborate and strengthen the digital armor together!
+
+📧 Email: [harsh4444.hf@gmail.com]
+
+
+
