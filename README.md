@@ -1,6 +1,4 @@
 
-🛡️ Harsh Gandhi | Cybersecurity Enthusiast
-
 Passionate about safeguarding the digital realm through code and innovation. Currently pursuing a Master's in Cybersecurity at University of Adelaide. Proficient in penetration testing, network security, and incident response. Dedicated to open source, learning, and collaborating with fellow security aficionados.
 
 🔐 Technical Skillset:
